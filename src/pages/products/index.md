@@ -1,11 +1,10 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Kaldi1 is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -38,9 +37,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What we offer22222
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    Kaldi2 is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
